@@ -1,6 +1,6 @@
 
-for i in range(5):
-    print("hello")
+for i in range(8):
+    print("world")
 
 d, c = 7, 5
 
