@@ -1,5 +1,7 @@
-a = 2 # создание переменной
-b = 9
+for i in range(5):
+    print("hello")
+
+a, b = 7, 5
 
 if a > b:
     print("a больше b")
