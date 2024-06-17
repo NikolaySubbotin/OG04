@@ -2,11 +2,11 @@
 for i in range(5):
     print("hello")
 
-a, b = 7, 5
+d, c = 7, 5
 
-if a > b:
+if d > c:
     print("a больше b")
-elif a < b:
+elif d < c:
     print("a меньше b")
 else:
     print("a равно b")
