@@ -1,3 +1,4 @@
+
 for i in range(5):
     print("hello")
 
@@ -9,3 +10,6 @@ elif a < b:
     print("a меньше b")
 else:
     print("a равно b")
+
+print ("Я конфликтую")
+
